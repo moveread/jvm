@@ -1,0 +1,7 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.project.referencedLibraries": [
+    "client/build/libs/client.jar"
+  ],
+}
